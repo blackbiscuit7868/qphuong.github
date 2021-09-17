@@ -1,0 +1,7 @@
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\bin\Debug\QuanLyPhongThiNghiem.exe.config
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\bin\Debug\QuanLyPhongThiNghiem.exe
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\bin\Debug\QuanLyPhongThiNghiem.pdb
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\obj\Debug\QuanLyPhongThiNghiem.csprojAssemblyReference.cache
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\obj\Debug\QuanLyPhongThiNghiem.csproj.CoreCompileInputs.cache
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\obj\Debug\QuanLyPhongThiNghiem.exe
+C:\Users\cohotech\source\repos\QuanLyPhongThiNghiem\QuanLyPhongThiNghiem\obj\Debug\QuanLyPhongThiNghiem.pdb
